@@ -1,3 +1,10 @@
+# En cas de problème lors du démarrage du serveur
+
+S'il s'agit de cette erreur :'react-scripts' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+pour résoudre ce problème il suffit de taper la commande suivante :
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
